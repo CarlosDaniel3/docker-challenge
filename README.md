@@ -1,10 +1,11 @@
 # Docker-challenge-01
-  # Desafio
+  ### Desafio
   
-  Criar uma Dockerfile com Ngnix
-    Copiar um arquivo index.html
-    Expor porta 80
-
+  Criar uma Dockerfile com Ngnix e nele:
+  * Copiar um arquivo index.html
+  * Expor porta 80
+  
+  Depois:
      
   * Build do Dockerfile
   * Subir para o dockerhub
