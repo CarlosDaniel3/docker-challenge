@@ -10,3 +10,5 @@
   * Build do Dockerfile
   * Subir para o dockerhub
   * Executar o container com docker run
+  
+  Link da imagem no DockerHub: https://hub.docker.com/repository/docker/carlosdaniel2/desafio-docker
