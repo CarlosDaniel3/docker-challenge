@@ -12,3 +12,8 @@
   * Executar o container com docker run
   
   Link da imagem no DockerHub: https://hub.docker.com/repository/docker/carlosdaniel2/desafio-docker
+
+  Criar um docker compose:
+  
+  * Com build para imagem do nginx
+  * Mapear a porta 8080
